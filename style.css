@@ -1,0 +1,12 @@
+/*styiling colonne*/
+
+[class*="col-"]{
+    /*DEBUG*/
+   min-height: 50px;
+   background-color: blue;
+   color: white;
+   text-align: center;
+   align-content: center;
+   border: solid 0.1rem white;
+}
+
