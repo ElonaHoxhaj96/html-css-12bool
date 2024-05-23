@@ -21,3 +21,6 @@
     border: solid 0.2rem white;
     padding: 10px;
 }
+.reverse{
+    flex-direction: row-reverse;
+}
